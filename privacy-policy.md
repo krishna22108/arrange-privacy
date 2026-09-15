@@ -55,7 +55,7 @@ We do not knowingly solicit data from or market to children under 13 years of ag
 Depending on your location, you may have certain rights regarding your personal information. You can review, change, or terminate your account at any time.
 
 **Account and Data Deletion:**
-You have the right to request the deletion of your account and all associated data. To request data deletion, please contact us at **[arrangeofficals4@gmail.com]**. Upon request, we will delete your account and all synced user-generated content from our active databases.
+You have the right to request the deletion of your account and all associated data. To request data deletion, please contact us at **[arrange642@gmail.com]**. Upon request, we will delete your account and all synced user-generated content from our active databases.
 
 ## 7. Changes to This Privacy Policy
 
@@ -64,4 +64,4 @@ We may update this privacy policy from time to time. The updated version will be
 ## 8. How Can You Contact Us About This Policy?
 
 If you have questions or comments about this policy, you may email us at:
-**[arrangeofficals4@gmail.com]**
+**[arrange642@gmail.com]**

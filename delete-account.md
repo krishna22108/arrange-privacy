@@ -6,7 +6,7 @@ If you would like to permanently delete your **ARrange** account and all associa
 
 To verify your identity and ensure the security of your data, please send an email to our support team from the email address associated with your ARrange account.
 
-**1. Send an email to:** `[Insert Your Email Address Here]`
+**1. Send an email to:** `[arrange642@gmail.com]`
 **2. Subject Line:** "Account Deletion Request"
 **3. Body:** Please include the email address associated with your account and state that you wish for your account and all synced furniture/measurement data to be permanently deleted from our servers.
 

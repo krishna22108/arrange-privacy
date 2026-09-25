@@ -70,4 +70,4 @@ These Terms shall be governed by and construed in accordance with the laws of th
 ## 14. Contact Us
 
 If you have any questions about these Terms, please contact us at:
-**Email:** arrangeofficals4@gmail.com
+**Email:** arrange642@gmail.com

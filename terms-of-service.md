@@ -10,7 +10,7 @@ By creating an account and using ARrange, you agree to comply with and be legall
 
 ## 2. Description of Service
 
-ARrange is a mobile application that allows users to capture photos of furniture, utilize Augmented Reality (AR) spatial tracking to measure and place furniture in their environment, and synchronize this data across devices. The App uses local on-device AI for background removal and cloud synchronization via Supabase.
+ARrange is a mobile application that allows users to capture photos of object, utilize Augmented Reality (AR) spatial tracking to measure and place furniture in their environment, and synchronize this data across devices. The App uses local on-device AI for background removal and cloud synchronization via Supabase.
 
 ## 3. User Accounts
 
